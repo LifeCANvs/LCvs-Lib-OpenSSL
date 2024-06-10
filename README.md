@@ -135,14 +135,16 @@ Wiki
 There is a Wiki at [wiki.openssl.org] which is currently not very active.
 It contains a lot of useful information, not all of which is up to date.
 
-License
-=======
+Licensing
+=========
 
-OpenSSL is licensed under the Apache License 2.0, which means that
+OpenSSL 3 is licensed under the Apache License 2.0, which means that
 you are free to get and use it for commercial and non-commercial
 purposes as long as you fulfill its conditions.
 
 See the [LICENSE.txt](LICENSE.txt) file for more details.
+
+Note: OpenSSL 1.1.1 and earlier are Apache 1.0 licensed.
 
 Support
 =======
